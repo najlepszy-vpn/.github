@@ -4,6 +4,8 @@
 
 <h2>Czym dokładnie jest usługa VPN?</h2>
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/45f007d07a9c3a33171551f410b3590a4b3671173c8d338d55748734ab70804a/68747470733a2f2f7777772e73747261696768742e636f6d2f6775696465732f77702d636f6e74656e742f75706c6f6164732f323032332f30392f426573742d56504e2d43616e6164612e6a7067"><img src="https://camo.githubusercontent.com/45f007d07a9c3a33171551f410b3590a4b3671173c8d338d55748734ab70804a/68747470733a2f2f7777772e73747261696768742e636f6d2f6775696465732f77702d636f6e74656e742f75706c6f6164732f323032332f30392f426573742d56504e2d43616e6164612e6a7067" alt="najlepszy vpn grafika" width="800" height="450" data-canonical-src="https://www.straight.com/guides/wp-content/uploads/2023/09/Best-VPN-Canada.jpg" style="max-width: 100%;"></a>
+
 <h3>Proste wyjaśnienie</h3>
 <p>VPN (Virtual Private Network) to narzędzie, które pozwala na anonimowe i bezpieczne korzystanie z internetu poprzez zmianę adresu IP i szyfrowanie danych przesyłanych między urządzeniem użytkownika a serwerem VPN.</p>
 
